@@ -1,12 +1,9 @@
- {
-    "extends": [
-        "react-app",
-        "plugin:prettier/recommended"
-    ],
-    "prettier/prettier": [
-        "error",
-        {
-            "endofline": "auto"
-        }
-    ]
- }
+{
+  "extends": ["react-app", "plugin:prettier/recommended"]
+  // "prettier/prettier": [
+  //     "error",
+  //     {
+  //         "endofline": "auto"
+  //     }
+  // ]
+}
